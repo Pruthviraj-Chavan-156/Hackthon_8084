@@ -91,5 +91,3 @@ This project wouldn’t be possible without the dataset and submission platform 
 
 Let’s make marketing **smarter** and more **efficient**! 🚀📈
 
-
-#
